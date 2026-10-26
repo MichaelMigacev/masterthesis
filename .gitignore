@@ -1,0 +1,15 @@
+**/__pycache__/*
+.idea/*
+*.pdf
+.run/*
+
+.env
+
+__pycache__/
+
+.vscode/
+.github/
+_tmp_outputs/
+
+data/
+rankings/
