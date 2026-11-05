@@ -3,6 +3,8 @@
 Row order is preserved so that patients and controls can be matched by
 their position (i.e. row i in the patient file corresponds to row i in
 the control file).
+
+This file contains code written by AI.
 """
 
 import argparse

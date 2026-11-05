@@ -16,6 +16,8 @@ Algorithm
 4. Pick the top-2 (alpha, beta) pairs with the highest summed distance.
 5. Go through every individual .csv file, extract ``kendall_tau_mean`` at
    those 2 selected (alpha, beta) pairs, and plot them as (x, y).
+
+This file contains code written by AI.
 """
 
 import argparse

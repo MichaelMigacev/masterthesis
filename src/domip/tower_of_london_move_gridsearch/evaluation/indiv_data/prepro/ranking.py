@@ -4,6 +4,8 @@ Each row (subject) in the input produces one output CSV with columns
 `TOL-ID` and `exmov`, sorted ascending by exmov (easiest problems first).
 The output file is named `<row_index>.csv` so that row order from the
 group-split files can still be matched later.
+
+This file contains code written by AI.
 """
 
 import argparse

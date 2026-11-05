@@ -14,6 +14,8 @@ The optimal k (1..30) is found automatically via an inner CV loop:
 
 Usage:
     python 4_grid_nn_kfind.py --input <folder> --output <folder> [--folds 5] [--repeats 20] [--top_k K] [--group_clinical]
+
+This file contains code written by AI.
 """
 
 import argparse

@@ -15,6 +15,8 @@ The optimal k (1..20) is found automatically via an inner CV loop:
 
 Usage:
     python 4_rank_nn_kfind.py --input <folder> --output <folder> [--folds 5] [--repeats 20] [--group_clinical]
+
+This file contains code written by AI.
 """
 
 import argparse

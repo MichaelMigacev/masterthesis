@@ -1,4 +1,7 @@
-"""Aggregate control subjects from PD, MCI, and STRK CSV files into a single deduplicated file."""
+"""Aggregate control subjects from PD, MCI, and STRK CSV files into a single deduplicated file.
+
+This file contains code written by AI.
+"""
 
 import os
 import pandas as pd

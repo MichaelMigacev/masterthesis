@@ -3,6 +3,8 @@
 Each input CSV has columns: alpha, beta, kendall_tau_mean, kendall_tau_std, source_file.
 The script pivots alpha/beta into a 2D grid of kendall_tau_mean values and plots it
 as a heatmap using the viridis colormap (dark = low, bright = high).
+
+This file contains code written by AI.
 """
 
 import argparse

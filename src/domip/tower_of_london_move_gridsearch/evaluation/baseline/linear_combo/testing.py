@@ -5,6 +5,8 @@ Loads the same splits, human rankings, and machine rankings as training.py,
 plus the training results (learned parameters) produced by training.py.
 For each split and each human ranking one parameter set is loaded, so that
 machine rankings can be scaled with the learned weights during validation.
+
+This file contains code written by AI.
 """
 
 import argparse

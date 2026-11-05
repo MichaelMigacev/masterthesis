@@ -7,6 +7,8 @@ For each problem (01-24):
       problems 01-08 -> 4
       problems 09-16 -> 5
       problems 17-24 -> 6
+
+This file contains code written by AI.
 """
 
 import argparse

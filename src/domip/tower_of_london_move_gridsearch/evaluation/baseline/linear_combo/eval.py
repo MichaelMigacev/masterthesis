@@ -10,6 +10,8 @@ Output layout
 -------------
 {output_dir}/
     summary.csv          <- human_file | mean | std
+
+This file contains code written by AI.
 """
 
 import argparse

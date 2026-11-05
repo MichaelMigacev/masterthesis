@@ -5,6 +5,8 @@ Reads CSV files from subfolders, extracts the 'kendall_tau_mean' column
 (rows kept in their natural file order), applies PCA or t-SNE, and
 produces a colored scatter plot where each subfolder gets its own color
 and legend entry.
+
+This file contains code written by AI.
 """
 
 import argparse

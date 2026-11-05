@@ -13,6 +13,8 @@ Algorithm
 3. Average the ``alpha`` and ``beta`` values of those top-k rows to produce
    a single (alpha, beta) coordinate per file.
 4. Plot all points on a scatter with logarithmic x (alpha) and y (beta) axes.
+
+This file contains code written by AI.
 """
 
 import argparse

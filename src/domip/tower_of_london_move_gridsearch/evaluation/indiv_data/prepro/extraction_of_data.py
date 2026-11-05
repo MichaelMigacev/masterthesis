@@ -13,6 +13,8 @@ Output files are written to:
   data/groups/PD_vs_Stroke_vs_MCI_vs_Healthy/ANONYM_TOLCLIN_STRK_exmov_patients.csv
   data/groups/PD_vs_Stroke_vs_MCI_vs_Healthy/ANONYM_TOLCLIN_MCI_exmov_patients.csv
   data/groups/PD_vs_Stroke_vs_MCI_vs_Healthy/ANONYM_TOLCLIN_CONTROL_exmov.csv
+
+This file contains code written by AI.
 """
 
 import os

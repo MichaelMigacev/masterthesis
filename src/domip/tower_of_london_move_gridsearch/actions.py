@@ -1,3 +1,5 @@
+# This file contains code written by AI.
+
 import random
 from typing import Dict, Callable, Union
 

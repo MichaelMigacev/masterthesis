@@ -8,6 +8,8 @@ column followed by exmov01–exmov24 and group.
 Output files are written to:
   data/groups/PD_vs_Stroke/ANONYM_TOLCLIN_PD_exmov_patients.csv
   data/groups/PD_vs_Stroke/ANONYM_TOLCLIN_STRK_exmov_patients.csv
+
+This file contains code written by AI.
 """
 
 import os

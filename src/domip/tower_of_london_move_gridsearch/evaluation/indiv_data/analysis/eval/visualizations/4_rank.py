@@ -4,6 +4,8 @@ Dimensionality reduction visualization for Tower of London ranking data.
 Reads CSV files from subfolders, sorts each by TOL-ID label (1–24),
 applies PCA or t-SNE, and produces a colored scatter plot where each
 subfolder gets its own color and legend entry.
+
+This file contains code written by AI.
 """
 
 import argparse

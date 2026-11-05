@@ -8,6 +8,8 @@ deviation of kendall_tau_mean across files, and produces:
       columns: alpha, beta, avg_kendall_tau_mean, kendall_tau_mean_std
   - two heatmap PNGs in the output folder:
       one for avg_kendall_tau_mean and one for kendall_tau_mean_std
+
+This file contains code written by AI.
 """
 
 import argparse

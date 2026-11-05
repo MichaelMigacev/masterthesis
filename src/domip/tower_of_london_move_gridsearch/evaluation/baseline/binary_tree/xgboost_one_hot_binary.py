@@ -25,6 +25,8 @@ Output layout (mirrors linear_combo/testing.py):
             summary.csv
         split_002/
             ...
+
+This file contains code written by AI.
 """
 
 import argparse

@@ -1,3 +1,5 @@
+# This file contains code written by AI.
+
 import datetime
 import pandas as pd
 from pathlib import Path

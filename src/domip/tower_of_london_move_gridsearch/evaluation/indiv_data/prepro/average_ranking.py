@@ -4,6 +4,8 @@ of numeric columns grouped by the index column (TOL-ID).
 
 Usage:
     python average_ranking.py --input <folder> --output <folder> --prefix <prefix>
+
+This file contains code written by AI.
 """
 
 import argparse

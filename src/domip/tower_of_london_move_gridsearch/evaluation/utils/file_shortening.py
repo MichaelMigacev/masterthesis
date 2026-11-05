@@ -3,6 +3,8 @@
 Each underscore-delimited segment in a filename is shortened to its first
 three letters. Segments that are purely numeric stay unchanged. The shortened
 copies are written to the same folder as the original files.
+
+This file contains code written by AI.
 """
 
 from __future__ import annotations
